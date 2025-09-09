@@ -6,5 +6,5 @@ Colegiul UTM
 
 ## Hobby
 Fac fotbal
-Crearea siteurilor web
+
 
